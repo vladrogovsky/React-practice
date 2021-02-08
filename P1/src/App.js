@@ -1,14 +1,12 @@
-import React from 'react'
-import Setup from './tutorial/1-useState/setup/3-useState-array';
+import React from "react";
+import Setup from "./tutorial/4-forms/setup/2-multiple-inputs";
 
 function App() {
   return (
-    <div className='container'>
-      <Setup>
-        
-      </Setup>
+    <div className="container">
+      <Setup></Setup>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
